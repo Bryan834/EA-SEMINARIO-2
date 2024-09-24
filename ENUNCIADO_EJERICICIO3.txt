@@ -1,0 +1,7 @@
+Siguiendo los códigos de los ejercicios anteriores. 
+CREE UNA PETICION A LA API QUE MUESTRE:
+
+    1. El nombre de todos los usuarios + los titulos de los albumes que tiene.
+    
+    2. Mostrar las imagenes de los albumes de los usuarios que tengan la palabra 'qui' en dicho titulo.
+    (funcion de alto nivel) y cuantas imagenes hay en los albumes filtrados.
